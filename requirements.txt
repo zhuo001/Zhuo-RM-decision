@@ -1,0 +1,1 @@
+# 核心依赖\nnumpy>=1.19.0\nopencv-python>=4.5.0\n\n# 可选依赖（如果需要可视化和额外功能）\nmatplotlib>=3.3.0\n\n# 开发依赖（可选）\n# pytest>=6.0.0\n# black>=21.0\n
